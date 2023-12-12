@@ -12,27 +12,29 @@ header:
   actions:
     - label: "Learn More"
       url: "/about/"
-  caption: "Photo credit: Eddie Dearden"
+  #caption: "Photo credit: Eddie Dearden"
 excerpt: "We make silly games and films"
 intro:
   - excerpt: |
-      We make silly games and films.
-      Have a look around and enjoy your stay!
+      We make films and games with a homemade feel.
+
+      If you want to get in touch, [chuck us an email](/contact).
 feature_row:
   - image_path: assets/images/samoa-joe-making.jpg
-    alt: "placeholder image 1"
+    alt: "photo of a stop-motion set"
     excerpt: "<br/>Here be films"
     url: "/films"
     btn_label: "Films"
     btn_class: "btn--primary"
   - image_path: assets/images/games.jpg
-    alt: "placeholder image 2"
+    alt: "photo of a commodore 64"
     excerpt: "<br/>Here be games."
     url: "/games"
     btn_label: "Games"
     btn_class: "btn--primary"
   - image_path: assets/images/little-eddie-letters.jpg
-    excerpt: "<br/>Here be posts"
+    alt: "photo of a puppet covered in letters"
+    excerpt: "<br/>Here be blog posts"
     url: "/blog"
     btn_label: "Blog"
     btn_class: "btn--primary"

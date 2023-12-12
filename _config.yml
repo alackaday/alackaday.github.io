@@ -23,7 +23,7 @@ github_username: alackaday
 minimal_mistakes_skin: air
 search: true
 locale: "en-GB"
-url: "https://alackaday.github.io"
+url: "https://alackaday.co.uk"
 repository: "alackaday/alackaday.github.io"
 
 # Build settings
@@ -60,34 +60,28 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Eddie"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Gamedev/Film maker in the North West of England"
+  name   : "Eddie Dearden"
+  avatar : "/assets/images/little-eddie-closeup.jpg"
+  bio    : "Filmmaker/game developer based in Manchester."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://alackaday.co.uk"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/AlackadayProd"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/alackaday"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/AlackadayProd"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/alackaday"
 
 defaults:
   # _posts
