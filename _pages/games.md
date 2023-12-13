@@ -1,6 +1,6 @@
 ---
 permalink: /games/
-title: "Games"
+title: "Alackaday Games"
 ---
 
 We make games!
