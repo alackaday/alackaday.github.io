@@ -18,7 +18,7 @@ He's got a PhD in computer science and yet he spent many days this year sculptin
 
 Somebody should really stop him.
 
-## What the heck's an Alackaday?
+## What the heck's an alackaday?
 Alackaday is an [archaic interjection](https://www.merriam-webster.com/dictionary/alackaday) which expresses a feeling of "sorrow or deprecation"...
 
 ...which makes it the perfect word to sum up the process of making stop motion animations and videogames.

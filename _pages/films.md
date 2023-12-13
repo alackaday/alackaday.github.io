@@ -26,7 +26,7 @@ A silly short which answers one of life's great questions, "what if former WWE s
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RcEpgAPyh60?si=OOASxO40Y1KDSJlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 
-## La Petit Homme
+## Un Petit Homme
 
 A short featuring a miniature version of myself.
 Entirely shot with my phone, would you believe.
