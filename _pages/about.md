@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-author_profile: true
+author_profile: false
 ---
 
 If you've not been around these parts before, you might have some questions.
