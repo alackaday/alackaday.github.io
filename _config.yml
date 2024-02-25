@@ -60,7 +60,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Eddie Dearden"
+  name   : "Eddie"
   avatar : "/assets/images/little-eddie-closeup.jpg"
   bio    : "Filmmaker/game developer based in Manchester."
   links:

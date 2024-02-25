@@ -9,11 +9,11 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: assets/images/eddie-and-little-eddie-banner.jpg
-  actions:
-    - label: "Learn More"
-      url: "/about/"
+  # actions:
+  #   - label: "Learn More"
+  #     url: "/about/"
   #caption: "Photo credit: Eddie Dearden"
-excerpt: "We make silly games and films"
+# excerpt: "We make silly games and films"
 intro:
   - excerpt: |
       We make films and games with a homemade feel.
@@ -26,7 +26,7 @@ feature_row:
     url: "/films"
     btn_label: "Films"
     btn_class: "btn--primary"
-  - image_path: assets/images/games.jpg
+  - image_path: assets/images/inventure.jpg
     alt: "photo of a commodore 64"
     excerpt: "<br/>Here be games."
     url: "/games"
