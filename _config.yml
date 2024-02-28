@@ -25,6 +25,9 @@ search: true
 locale: "en-GB"
 url: "https://alackaday.co.uk"
 repository: "alackaday/alackaday.github.io"
+teaser                   : assets/images/alackaday_logo.svg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : assets/images/alackaday_logo.svg # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : "Alackaday Productions" # overrides the website title displayed in the masthead, use " " for no title
 
 # Build settings
 markdown: kramdown
