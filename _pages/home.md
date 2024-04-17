@@ -22,19 +22,16 @@ intro:
 feature_row:
   - image_path: assets/images/samoa-joe-making.jpg
     alt: "photo of a stop-motion set"
-    excerpt: "<br/>Here be films"
     url: "/films"
     btn_label: "Films"
     btn_class: "btn--primary"
   - image_path: assets/images/inventure.jpg
-    alt: "photo of a commodore 64"
-    excerpt: "<br/>Here be games."
+    alt: "the word 'Inventure' written in a blocky font"
     url: "/games"
     btn_label: "Games"
     btn_class: "btn--primary"
   - image_path: assets/images/little-eddie-letters.jpg
     alt: "photo of a puppet covered in letters"
-    excerpt: "<br/>Here be blog posts"
     url: "/blog"
     btn_label: "Blog"
     btn_class: "btn--primary"

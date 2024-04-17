@@ -1,0 +1,19 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+.layout--splash .page__title {
+    text-align: center;
+}
+
+.layout--splash .btn {
+    display: block;
+    margin: 10px auto;
+    padding: 5px 10px;
+}
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
