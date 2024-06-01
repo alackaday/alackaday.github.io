@@ -12,6 +12,12 @@ We're down to give pretty much anything a go, be it music videos, adverts, or du
 
 Here's a selection of our films.
 
+## The Saloon Pianist
+
+A stop motion animated short about a saloon pianist in the wild west who dreams of playing classical music.
+
+<iframe src="https://player.vimeo.com/video/952724354?h=8a7fed3680" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ## Don't show your willy to the postman
 
 A stop motion music video for [Owen Evans](https://soundcloud.com/owen-evans/tracks)' absolute banger, "Don't show your willy to the post man" ([which you should immediately add to all your Spotify playlists](https://open.spotify.com/track/4XvpGMmodpL78zsPEGdngt?si=f31e28324e2a41da)).
