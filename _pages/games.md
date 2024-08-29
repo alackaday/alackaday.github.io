@@ -20,6 +20,16 @@ If people like it, we'll try and make it into a full game, with a load more stuf
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-RuZQwfdFLM?si=_d81UMbi1xjs9GIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Too Large for the Barge
+
+<iframe frameborder="0" src="https://itch.io/embed/2906112" width="552" height="167"><a href="https://alackaday-games.itch.io/too-large-for-the-barge">Too Large for the Barge by Alackaday Games, Whimberry, jimangi, Melancholy3004</a></iframe>
+
+You're running a ferry for animals, but there's one problem.
+The boat can only depart safely if it's perfectly balanced.
+But you don't know how much each animal weighs.
+
+Too Large for the Barge is a puzzle game where you need to try and work out how much different animals weigh so that you can keep the ferry balanced.
+It's basically like the algebra you did back at school but cuddly and nautical.
 
 ## Miscellaneous Projects
 
@@ -30,3 +40,9 @@ Delve in if you dare.
 
 Eggsplosion is a stealth game where you play as a chicken with exploding eggs.
 You may see why that's not an ideal combination.
+
+<iframe frameborder="0" src="https://itch.io/embed/2866797" width="552" height="167"><a href="https://dwardir.itch.io/roguesnake">Roguesnake by dwardir</a></iframe>
+
+Roguesnake is a roguelike version of Snake.
+It's far from finished and there's no progression system.
+But it's a fun mechanical demo.
