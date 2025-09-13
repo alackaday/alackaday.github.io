@@ -17,3 +17,37 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+.layout--splash .page__hero--overlay .page__title,
+.layout--splash .page__hero--overlay .page__lead {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  margin: -1px !important;
+  padding: 0 !important;
+  clip: rect(0 0 0 0) !important;
+  overflow: hidden !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+.layout--splash .page__hero--overlay {
+  aspect-ratio: 4 / 1;
+  background-size: cover !important;
+  background-position: center center !important;
+}
+
+.splash-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;              /* more space between buttons */
+  flex-wrap: wrap;        /* keep responsive on smaller screens */
+}
+
+.splash-buttons .btn {
+  font-size: 1.25rem;     /* make text bigger */
+  padding: 1rem 2rem;     /* bigger button size */
+  border-radius: 0.5rem;  /* slightly round corners */
+  margin: 0;
+}
